@@ -17,6 +17,7 @@ gem "recipient_interceptor"
 gem "sass-rails", "~> 5.0"
 gem "sprockets", ">= 3.0.0"
 gem "sprockets-es6"
+gem "title"
 gem "uglifier"
 
 group :development do
